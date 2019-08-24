@@ -11,7 +11,7 @@
 * [京东篇](#8)
 * [MySQL篇](#9)
 * [Redis篇](#10)
-* [MongDB篇](#11)
+* [MongoDB篇](#11)
 * [Zookeeper篇](#12)
 * [Nginx篇](#13)
 * [算法篇](#14)
@@ -918,6 +918,8 @@
 
 **获取大牛视频资料，专家架构交流3群：783153655**
 
+**C/C++ Linux技术交流群：762073882**
+
 **若群已满，添加QQ：936204305 , 备注github**
 
 **关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料**
@@ -925,7 +927,51 @@
 <img src = "arch.jpg" />
 
 
+## 鸣谢
 
+##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。使得该repo能够在github趋势榜，持续一周时间问鼎排行榜。
 
+<a href="https://github.com/zhiyong0804">
+    <img src="https://avatars2.githubusercontent.com/u/15864088?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/pyinx">
+    <img src="https://avatars1.githubusercontent.com/u/3828540?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/ileler">
+    <img src="https://avatars3.githubusercontent.com/u/3371163?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/jiaoqiyuan">
+    <img src="https://avatars3.githubusercontent.com/u/13357933?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/seniorcandy">
+    <img src="https://avatars1.githubusercontent.com/u/11422477?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/kphn">
+    <img src="https://avatars1.githubusercontent.com/u/35964821?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/OhIAmFine">
+    <img src="https://avatars0.githubusercontent.com/u/10390004?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/ArtarisCN">
+    <img src="https://avatars2.githubusercontent.com/u/19167403?s=400&v=4" width="40px">
+</a>
+<a href="https://github.com/Octobug">
+    <img src="https://avatars1.githubusercontent.com/u/8007022?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/SenZhangAI">
+    <img src="https://avatars0.githubusercontent.com/u/8464676?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/wansho">
+    <img src="https://avatars2.githubusercontent.com/u/28779244?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/dengchaoyun007">
+    <img src="https://avatars1.githubusercontent.com/u/38239467?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/FanShikun">
+    <img src="https://avatars1.githubusercontent.com/u/30170514?s=400&v=4" width="40px">
+</a> 
 
 
